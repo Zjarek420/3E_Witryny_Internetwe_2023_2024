@@ -1,0 +1,40 @@
+Zad 1 
+Wersja HTML:  Element:  Zamiennik:
+               APPLET    OBJECT
+               BASEFONT   CSS: color, font-family, font-size
+               CENTER     CSS: text-align
+               DIR        UL
+               FONT       CSS: color, font-family, font-size
+               ISINDEX    INPUT
+               MENU      UL
+               S      CSS: text-decoration
+               STRIKE      CSS: text-decoration
+               U      CSS: text-decoration
+
+Zad 2 
+Największe zmiany pomiędzy językami HTML 5 a HTML 4.01:
+
+– W języku HTML 5 usunięto przestarzałe instrukcje: <basefront>, <big>, <center>, <strike>, <frame>, <frameset>, <tt>.
+
+– W miejsce usuniętych dyrektyw wprowadzono nowe instrukcje: <article>, <header>, <details>, <figure>, <nav>, <section>, <mark>, <time>, <audio>,<video>, <source>, <bdo>, <rp>.
+
+– Wersja 5 upraszcza zapis znaczników językowych (obecnie wystarczy zapis: <meta charset=”UTF-8″ />, wcześniejszy zapis wyglądał następująco:
+ <meta http-equiv=”content-type” content=”text/html;charset=UTF-8″ />)
+
+– Wprowadzono moduł API i kompleksową obsługę multimediów.
+
+– Rozbudowano formularze.
+
+– Zniesiono zasadę obowiązkowego zamykania znaczników (pomocne dla zapominalskich webmasterów) i pustych komend.
+Zad 3 
+nie mogłem znaleźć tak przestarzałych stron które by posiadały specyfikacje 4.01 i 4.0
+Zad 4 
+A - HyperText Markup Language czyli Hipertekstowy język znaczników 
+Zad 5
+D - <! – oraz –>.
+Zad 6
+C - Blog
+Zad 7
+C - W3C
+Zad 8
+B - Wartości
