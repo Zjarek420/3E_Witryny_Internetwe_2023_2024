@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>MOZLIWOSCI UZYSKIWANIA DODATKOWYCH KWALFIKACJI
+    <br> W ZAWODACH OBSZARU KSZTALCENIA OKRESLONEGO 
+    <br> W KLASYFIKACJI ZAWODOW SZKOLNICTWA ZAWODOWEGO</h1>
+<br>
+    <h2 style="font-weight:normal">Absolwent szkoly ksztalcacej w zawodzie <b><u>technik informatyk</u></b> po potwierdzeniu kwalifkacjii.</h2>
+    <h3 style="font-weight:normal">
+<b>E.12.</b> 
+    <i>Montaz i eksploatacja komputerow osobistych oraz urzadzen periferyjnych,</i>
+<br>
+<b>E.13.</b>
+    <i>Projektowanie lokalnych sieci komputerowych i administrowanie sieciami i</i>
+<br>
+    <b>E.14.</b>
+    <i>Tworzenie aplikacji internetowych i baz danych oraz administrowanie bazami</i>
+</h3>
+<h2 style="font-weight:normal">moze uzyskaz dyplom potwierdzajacy kwalfikacje w zawodnie <u>teleinformatyk</u>, po
+ potwierdzeniu dodatkowo kwalifkacji</h2>
+ <h3 style="font-weight:normal">
+    <b>E.15.</b> <i>Uruchamianie oraz utrzymanie teminali i przylaczy abonenckich i</i> <br>
+    <b>E.16.</b> <i>Montaz i eksploatacja sieci rozleglych</i>
+ </h3>
+</body>
+</html>
